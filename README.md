@@ -1,7 +1,6 @@
 
-
-<h2 align="center">Hi, I'm Koichi 👋</h2>
 <img src="https://github.com/0xKoichi/0xKoichi/blob/main/prod.svg" align="right" height="350"/>
+<h2 align="center">Hi, I'm Koichi 👋</h2>
 <p align="justify">I'm a mid-level, full-stack software engineer currently working in London, UK. I'm constantly learning new technologies in order to advance my career and find passion in seeking knowledge and solving problems. Currently fascinated with React (ask me about hooks), and the Agile methodology.</p>
 
 
